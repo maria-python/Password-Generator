@@ -2,7 +2,9 @@
 
 A Python project for generating secure passwords with both console and desktop GUI versions.  
 Ideal for learning backend logic, randomization, and GUI programming with PyQt5.
+
 ---
+
 ## Features
 
 - **Console Version (v1)** – simple command-line password generator  
